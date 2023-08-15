@@ -184,7 +184,7 @@ p{
 
     .home-image{
         width: 95%;
-        height: 400px;
+        height: 40%;
         border-radius: 2px;
         padding-left: 0%;
     }
@@ -215,7 +215,7 @@ p{
 
     .mobile2{
         line-height: 40px;
-        width: 20%;
+        max-width: 20%;
         height: 100%;
         display: block;
         position: absolute;
